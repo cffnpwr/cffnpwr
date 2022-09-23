@@ -30,6 +30,10 @@ Tools to post to Twitter and Misskey at the same time.
 
 cffnpwr's custom js and CSS for [MarinDeck](https://hisubway.online/marindeck/)
 
+### <img src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f517.png" alt="link" style="height:1em;width:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;">[Share via Misskey shortcut for iPhone/iPad](https://gist.github.com/cffnpwr/4325eb70af72f5b79ed7dae47260e0fb)
+
+iOS/iPad OSで共有メニューに「Misskeyで共有」を追加するショートカット
+
 #### And broken account...
 
 #### And more private repos...
