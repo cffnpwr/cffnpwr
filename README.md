@@ -1,4 +1,4 @@
-# CaffeinePower a.k.a. cffnpwr / かふぇいんぱわぁ
+# かふぇいんぱわぁ a.k.a. かふぇぱ / cffnpwr / CaffeinePower
 
 ![c++](https://img.shields.io/badge/C++-2014~-00599C.svg?logo=cplusplus&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-2015~-777BB4.svg?logo=php&style=flat)
@@ -12,7 +12,9 @@
 ![GithubActions](https://img.shields.io/badge/GithubActions-2022~-2088FF.svg?logo=githubactions&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2022~-326CE5.svg?logo=kubernetes&style=flat)
 ![React](https://img.shields.io/badge/React-2022~-61DAFB.svg?logo=react&style=flat)
-![React](https://img.shields.io/badge/Next.js-2022~-000000.svg?logo=next.js&style=flat)
+![Nextjs](https://img.shields.io/badge/Next.js-2022~-000000.svg?logo=next.js&style=flat)
+![Rust](https://img.shields.io/badge/Rust-2022~-000000.svg?logo=rust&style=flat)
+![Java](https://img.shields.io/badge/Assembly-2022~-3A75B0.svg?style=flat)
 
 I want to become ***Full Stack Engineer***...
 
@@ -22,7 +24,7 @@ I want to become ***Full Stack Engineer***...
 
 TwitterとMisskeyに同時投稿するためのWebアプリケーション
 
-Tools to post to Twitter and Misskey at the same time.
+CaffeBruncher is a tool to cross-post Misskey and Twitter
 
 ### [🕊Cunstom JS / CSS for MarinDeck](https://github.com/cffnpwr/marindeck-custom)
 
