@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/React-2022~-61DAFB.svg?logo=react&style=flat)
 ![Nextjs](https://img.shields.io/badge/Next.js-2022~-000000.svg?logo=next.js&style=flat)
 ![Rust](https://img.shields.io/badge/Rust-2022~-000000.svg?logo=rust&style=flat)
-![Java](https://img.shields.io/badge/Assembly-2022~-3A75B0.svg?style=flat)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-2022~-3A75B0.svg?style=flat)
 
 I want to become ***Full Stack Engineer***...
 
