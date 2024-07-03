@@ -20,33 +20,40 @@ I want to become ***Full Stack Engineer***...
 
 ## Works & Repositories
 
-### [☕CaffeBruncher](https://bruncher.cffn.pw/) (Now Developing!!)
+### [☕CaffeBruncher](https://bruncher.cffn.pw/) (開発停止)
 
 TwitterとMisskeyに同時投稿するためのWebアプリケーション
 
-CaffeBruncher is a tool to cross-post Misskey and Twitter
-
-### [🕊Cunstom JS / CSS for MarinDeck](https://github.com/cffnpwr/marindeck-custom)
+### [🕊Cunstom JS / CSS for MarinDeck](https://github.com/cffnpwr/marindeck-custom) (MarinDeckが🈂終)
 
 かふぇいんぱわぁが[MarinDeck](https://hisubway.online/marindeck/)で使用しているカスタムJSとカスタムCSS
 
-cffnpwr's custom js and CSS for [MarinDeck](https://hisubway.online/marindeck/)
-
-### [🔗Share via Misskey shortcut for iPhone/iPad](https://gist.github.com/cffnpwr/4325eb70af72f5b79ed7dae47260e0fb)
+### [🔗Share via Misskey shortcut for iPhone/iPad](https://gist.github.com/cffnpwr/4e4334d189de5d8e42e8e8c485a70db7)
 
 iOS/iPad OSで共有メニューに「Misskeyで共有」を追加するショートカット
 
-#### And broken account...
+### [🐌Snail's Machine](https://github.com/cffnpwr/snails-machine)
 
-#### And more private repos...
+チューリングマシンシミュレータ
+
+### [📹FFProbe WASM](https://github.com/cffnpwr/ffprobe-wasm)
+
+ブラウザ上で動作するffprobe
+
+### [🍴taiyme/misskey](https://github.com/taiyme/misskey)
+
+[Misskey](https://github.com/misskey-dev/misskey)のフォーク
+Docker環境の整備、Github ActionsでのCI/CDでコントリビュート
+
+### [📆amscal](https://github.com/cffnpwr/asmcal)
+
+ARMv4アセンブリでのcalコマンドの実装
 
 ## Organizations
 
-### [🖥EXDeck](https://github.com/EXDeck)
+### [🖥EXDeck](https://github.com/EXDeck) (開発停止)
 
 EXDeckは軽量なマルチカラムのTwitterクライアントです
-
-A lightweight multi-column Twitter client
 
 ## Stats
 
